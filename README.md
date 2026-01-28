@@ -53,13 +53,11 @@ git clone git@github.com:vitalii4reva/ukrainianizer.git ~/.cursor/rules/ukrainia
 ### Claude Code
 
 ```bash
-# Клонуй репо у директорію CLAUDE.md проєкту або глобально
-git clone git@github.com:vitalii4reva/ukrainianizer.git
+# Клонуй репо у директорію скіллів Claude Code
+git clone git@github.com:vitalii4reva/ukrainianizer.git ~/.claude/skills/ukrainianizer
 
-# Додай вміст SKILL.md до свого CLAUDE.md файлу
-cat ukrainianizer/SKILL.md >> ~/.claude/CLAUDE.md
-# або в проєкт:
-cat ukrainianizer/SKILL.md >> ./CLAUDE.md
+# Або для конкретного проєкту:
+git clone git@github.com:vitalii4reva/ukrainianizer.git ./skills/ukrainianizer
 ```
 
 Готово. Скілл з'явиться в списку.
