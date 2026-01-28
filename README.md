@@ -236,7 +236,7 @@ def clean_watermarks(text):
 
 ---
 
-## � Структура
+## 📁 Структура
 
 ```
 ukrainianizer/
@@ -254,7 +254,7 @@ ukrainianizer/
 
 ---
 
-## �📚 Корисні ресурси
+## 📚 Корисні ресурси
 
 - [GPT Cleanup](https://gptcleanup.eu/zero-width-space-remover) — онлайн-детектор watermarks
 - [GetGPT Watermark](https://getgpt.app/watermark) — перевірка на AI-маркери
