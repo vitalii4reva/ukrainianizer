@@ -241,6 +241,7 @@ def clean_watermarks(text):
 ```
 ukrainianizer/
 ├── SKILL.md              # Основний workflow (~200 рядків)
+├── CHANGELOG.md          # Історія змін
 └── references/
     ├── rusyzmy.md        # Словник русизмів
     ├── anglicyzmy.md     # Англіцизми
@@ -285,4 +286,4 @@ MIT License — використовуй вільно.
 
 ---
 
-**Версія:** 2.0 (Січень 2026)
+**Версія:** 2.1 (Лютий 2026)
